@@ -1,5 +1,6 @@
 # OpenGL_CS-330
-Course work for SNHU CS330
+Course work for SNHU CS330 
+
 Designing software requires an approach that balances creativity with what is technically possible. This project followed an iterative process, beginning with Blender and progressing to implementation in OpenGL. Establishing core components early helped ensure the scene met project requirements while allowing flexibility for refinements. Modularity was also a key priority, promoting efficient development and reusability; developers dont like repeats. Objects were considered as a composition of fundamental shapes, making construction a breeze while optimizing performance. The emphasis on reusable code and structured design helped to create a clean and maintainable code base.  
 
 Developing the 3D scene involved incremental refinement (this project was rendered well over one hundred times before completion), allowing small components to be tested and improved -time eater- before full integration. Early stages focused on getting basic objects where they belonged and defining their structure, with later refinements incorporating texture mapping, shading, and lighting adjustments. The navigation system was designed for a responsive experience, enabling movement along multiple axes (X,Y,Z) and allowing smooth interaction with the environment. Code efficiency was enhanced through known strategies such as loop-based object generation, reducing redundancy while maintaining a visually complex scene.  
